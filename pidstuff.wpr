@@ -1,0 +1,9 @@
+#!wing
+#!version=7.0
+##################################################################
+# Wing project file                                              #
+##################################################################
+[project attributes]
+proj.file-list = [loc('pidtk.py')]
+proj.file-type = 'shared'
+proj.main-file = loc('pidtk.py')
